@@ -1,0 +1,20 @@
+{
+  "name": "advent-of-code-2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "template.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "day:01": "node day01/solutionP1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertoHeCi/advent-of-code-2022.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertoHeCi/advent-of-code-2022/issues"
+  },
+  "homepage": "https://github.com/robertoHeCi/advent-of-code-2022#readme"
+}
