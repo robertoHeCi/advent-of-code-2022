@@ -1,0 +1,5 @@
+node_modules
+manifest.json
+*.log
+.idea
+.DS_Store
